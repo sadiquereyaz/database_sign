@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820237722456",
+    "project_id": "database-bf1c1",
+    "storage_bucket": "database-bf1c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820237722456:android:0fbe2e3c5174abf8fa3b2d",
+        "android_client_info": {
+          "package_name": "in.instea.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTyyODZ4QIsDFO49bTulscIeKyQU3cki4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

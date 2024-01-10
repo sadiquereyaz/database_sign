@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Database(Log in-out)</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="email_hint">email</string>
+    <string name="sign_in_heading">Sign in</string>
+    <string name="sign_up_heading">Create Account</string>
+    <string name="sign_up_btn">Sign Up</string>
+</resources>
